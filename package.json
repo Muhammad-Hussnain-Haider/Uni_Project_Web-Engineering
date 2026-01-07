@@ -1,0 +1,17 @@
+{
+  "name": "veteranmeet-frontend",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "bootstrap": "^5.3.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.11.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2"
+  }
+}
